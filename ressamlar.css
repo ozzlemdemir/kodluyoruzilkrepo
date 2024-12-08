@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(123, 140, 142);
+}
+header{
+    color: rgb(3, 43, 30);
+    display: flex;
+    justify-content: center;
+}
+.resim2{
+    width: 300px;
+    height: 400px;
+    
+}
+.resim3{
+    width: 300px;
+    height: 400px;
+}
+.resim4{
+    width: 300px;
+    height: 400px;
+}
+section{
+    color: rgb(93, 6, 6);
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
